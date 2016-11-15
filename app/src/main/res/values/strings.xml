@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="level">Level : </string>
+    <string name="time">Time/Move : </string>
+    <string name="maxTime">60</string>
+    <string name="secs">s</string>
+    <string name="minScore">0</string>
+    <string name="player1">P-1 :</string>
+    <string name="player2">P-2 :</string>
+</resources>
